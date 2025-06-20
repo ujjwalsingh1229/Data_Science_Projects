@@ -53,5 +53,3 @@ Prepared data for future ML tasks like rating prediction or restaurant clusterin
 
 
 ---
-
-Would you like a custom README.md file generated from this with markdown formatting? I can provide it as text or a downloadable file.
